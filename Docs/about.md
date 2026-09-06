@@ -17,6 +17,10 @@ We will soon prepare to have a Android, iOS, and Desktop app in Forumposter 3.x.
 We will change the index.html or homepage at ANY time. 
 we are not responsible for any security problems that you caused.
 
+## TOS
+
+this section is locked. go to terms.html to view this.
+
 ## Forking
 
 Yeah this uses MIT license 
